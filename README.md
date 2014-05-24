@@ -5,7 +5,7 @@ Easily parse Apple & iTunes Connect emails. Create an instance of `AppleSlice::E
 ```ruby
 require "appleslice"
 
-email_body == "<!DOCTYPE HTML PUBLIC>..."
+email_body = "<!DOCTYPE HTML PUBLIC>..."
 
 slice = AppleSlice::Email.new(email_body)
 
