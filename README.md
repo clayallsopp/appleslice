@@ -74,3 +74,13 @@ Valid values for `#review_status` are:
 - `:ready_for_sale`
 - `:developer_rejected`
 - `:developer_removed_from_sale`
+
+## Contact
+
+[Clay Allsopp](http://clayallsopp.com/)
+- [clay@usepropeller.com](mailto:clay@usepropeller.com)
+- [@clayallsopp](https://twitter.com/clayallsopp)
+
+## License
+
+AppleSlice is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
