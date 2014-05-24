@@ -3,6 +3,8 @@
 Easily parse Apple & iTunes Connect emails. Create an instance of `AppleSlice::Email` with your email's HTML body and slice away!
 
 ```ruby
+require "appleslice"
+
 email_body == "<!DOCTYPE HTML PUBLIC>..."
 
 slice = AppleSlice::Email.new(email_body)
@@ -25,7 +27,7 @@ slice.itunes_url
 
 Add this line to your application's Gemfile:
 
-    gem 'AppleSlice'
+    gem 'appleslice'
 
 And then execute:
 
