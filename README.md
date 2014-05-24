@@ -1,6 +1,6 @@
-# AppleSlice
+# AppleSlice - Parse Apple & iTunes Connect emails
 
-Easily parse Apple & iTunes Connect emails. Create an instance of `AppleSlice::Email` with your email's HTML body and slice away!
+Create an instance of `AppleSlice::Email` with your email's HTML body and slice away!
 
 ```ruby
 require "appleslice"
