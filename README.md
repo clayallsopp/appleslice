@@ -1,4 +1,4 @@
-# AppleSlice - Parse Apple & iTunes Connect emails
+# AppleSlice - Parse iTunes Connect emails
 
 Create an instance of `AppleSlice::Email` with your email's HTML body and slice away!
 
