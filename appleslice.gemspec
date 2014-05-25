@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'appleslice/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "AppleSlice"
+  spec.name          = "appleslice"
   spec.version       = AppleSlice::VERSION
   spec.authors       = ["Clay Allsopp"]
   spec.email         = ["clay@usepropeller.com"]
