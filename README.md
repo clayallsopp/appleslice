@@ -39,7 +39,7 @@ Or install it yourself as:
 
 ## Usage
 
-The zeroth step to using AppleSlice is to get Apple emails into your Ruby system - you could use an email service like [Postmark](http://postmarkapp.com) or [Sendgrid](www.sendgrid.com) for that, or many other methods.
+The zeroth step to using AppleSlice is to get Apple emails into your Ruby system - you could use an email service like [Postmark](http://postmarkapp.com) or [Sendgrid](http://www.sendgrid.com) for that, or many other methods.
 
 AppleSlice parses the following information for these types of emails:
 
